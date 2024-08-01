@@ -1,0 +1,29 @@
+/* styles.css (or your preferred CSS file) */
+
+.cart {
+    padding: 20px;
+    text-align: center;
+    background-color: black; /* Change this to your desired color */
+    color: white;
+    font-size: 24px;
+  }
+  
+  .cart ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cart li {
+    margin-bottom: 10px;
+  }
+  
+  .cart button {
+    background-color: #ff6347; /* Change this to your desired button color */
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 14px;
+    
+  }
+  
